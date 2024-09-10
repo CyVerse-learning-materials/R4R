@@ -6,6 +6,8 @@ Following the [Rose/Bud/Thorn](https://www.panoramaed.com/blog/rose-bud-thorn-ac
 ### Rose:
 The highlight from the previous FOSS session, such as something you found particularly interesting. This could also be something you're excited to implement now.
 
+I like the introduction to open science, specially thinking about how open science can increase the scope of a journal publication. It was useful to know how journals administrate their sharing policies, going form open to subscription based publications. It was also cool to learn about the review process and alternatives to the orthodox anonnymous reviewrs system.
+
 ### Bud: 
 Something that you are looking forward to digging into deeper. This could also be ideas on how to apply concepts to your current or future research projects.
 
