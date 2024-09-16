@@ -6,11 +6,17 @@ Following the [Rose/Bud/Thorn](https://www.panoramaed.com/blog/rose-bud-thorn-ac
 ### Rose:
 The highlight from the previous FOSS session, such as something you found particularly interesting. This could also be something you're excited to implement now.
 
+This was a good overview of the concepts of open science we will be covering in this course. I particularly enjoyed the discussions of what open peer review and publishing can look like.
+
 ### Bud: 
 Something that you are looking forward to digging into deeper. This could also be ideas on how to apply concepts to your current or future research projects.
 
+I want to better understand how to make my work open access as much as possible.
+
 ### Thorn: 
 Something that was challenging that could be worked on, such as anything that wasn't 100% clear and could be elaborated on. Any sticking points should be addressed here. Are there barriers that need to be overcome?
+
+A lot of this lesson was giving a vague overview of a wide variety of topics, and often seemed to barely skim the surface of issues that could have been discussed more deeply.
 
 ## Partner Discussions
 
@@ -19,6 +25,3 @@ During the in-person Tuesday session, you will be paired with another fellow to 
 For our first session, please discuss with your partner your thoughts on FOSS Intro to Open Science. Please use the Rose, Bud, Thorn prompts to spark discussion. 
 
 Please give a brief summary of what you talked about. Did you learn anything from your partner regarding their research or a FOSS topic? Did you help your partner learn something they did not know? 
-
-
-TESTING
