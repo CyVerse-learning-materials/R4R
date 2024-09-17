@@ -6,11 +6,17 @@ Following the [Rose/Bud/Thorn](https://www.panoramaed.com/blog/rose-bud-thorn-ac
 ### Rose:
 The highlight from the previous FOSS session, such as something you found particularly interesting. This could also be something you're excited to implement now.
 
+It was our very first session, so the most exciting thing for me was learning about my cohort mates' research agenda. Regarding the FOSS session, I found interesting the existence of multiple Open Science Schools.
+
 ### Bud: 
 Something that you are looking forward to digging into deeper. This could also be ideas on how to apply concepts to your current or future research projects...
 
+It was interesting that we we're asked about our experience utilizing AI. Regarding the FOSS session, our discussion about open access journals provided food for thought.
+
 ### Thorn: 
 Something that was challenging that could be worked on, such as anything that wasn't 100% clear and could be elaborated on. Any sticking points should be addressed here. Are there barriers that need to be overcome?
+
+Well, to be honest, this first week was pretty introductory. Everything was clear and straightforward.
 
 ## Partner Discussions
 
