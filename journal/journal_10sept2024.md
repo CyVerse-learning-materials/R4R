@@ -15,6 +15,7 @@ So far I haven't found something challenging yet
 ## Partner Discussions
 
 During the in-person Tuesday session, you will be paired with another fellow to get to know them and also discuss a FOSS topic. Please introduce yourself to your partner and briefly talk about your field of study and projects. 
+I met Cassidy who is a PhD Student in atmospheric sciences. Cassidy has traveled in Groenland to study aerosol particules and will compare how particules interact with water. Cassidy is required to publish 3 articles before defending his dissertation
 
 For our first session, please discuss with your partner your thoughts on FOSS Intro to Open Science. Please use the Rose, Bud, Thorn prompts to spark discussion. 
 
