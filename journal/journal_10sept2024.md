@@ -14,8 +14,6 @@ I think it will take some time to grasp all the terminology and acronyms to desc
 
 ## Partner Discussions
 
-During the in-person Tuesday session, you will be paired with another fellow to get to know them and also discuss a FOSS topic. Please introduce yourself to your partner and briefly talk about your field of study and projects. 
+Joy is in the epidemiology department. He works with 3 datasets from the College of Public health. The datasets are from an App which was run from 2017-2019 along the U.S.-Mexico boarder on the U.S. side. He focuses in identifying features which make it more likely for someone to use the App.
 
-For our first session, please discuss with your partner your thoughts on FOSS Intro to Open Science. Please use the Rose, Bud, Thorn prompts to spark discussion. 
-
-Please give a brief summary of what you talked about. Did you learn anything from your partner regarding their research or a FOSS topic? Did you help your partner learn something they did not know?
+It was interesting exchanging research topics and I think we both learned a lot about each other's respective fields.
