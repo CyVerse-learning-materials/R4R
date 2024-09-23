@@ -1,0 +1,9 @@
+FOSS Weekly Journal - 19th of September, 2024
+Rose:
+The highlight from last week's FOSS session was learning how to create a GitHub website. I found it particularly exciting because I can now use GitHub Pages to share my research on the lifecycle assessment (LCA) of rare earth metals and techno-economic analysis. Having a personal website will allow me to easily present my findings, create interactive visualizations, and share updates on my projects. This tool also opens up opportunities for collaboration, as I can use it to showcase my optimization work on recycling lithium-ion batteries and LCA of waste-to-energy conversions.
+
+Bud:
+I am looking forward to exploring how to effectively integrate my research data into my GitHub site. Specifically, I want to dive deeper into using GitHub for version control and collaboration, particularly when working on GIS-based optimization projects. Applying these skills will help me manage datasets and updates for the LCA of waste conversion processes and recycling efforts. I also see the potential to use this platform to provide a more dynamic and accessible way for others to interact with the technical aspects of my research.
+
+Thorn:
+One challenge from the session was the initial setup of the GitHub website, especially when customizing templates and making the site more interactive. It took me some time to understand how to organize the code for optimal functionality. Additionally, integrating interactive elements like maps for my GIS work wasn't entirely clear. This might become a barrier to efficiently showcasing my lithium-ion battery recycling models or LCA results for waste conversion. I plan to address these challenges by researching more advanced GitHub Pages features and perhaps looking into third-party tools or plugins that can help improve the interactivity of my site.
