@@ -8,6 +8,3 @@ I am excited to add to my website and learn new ways to display content through 
 
 ### Thorn:
 It is a complicated process to make sure all the setting are coreect for publishing my website. I missed a step that was causing an issue, but luckily Michele helped me after the meeting.
-
-## Partner Discussions
-
