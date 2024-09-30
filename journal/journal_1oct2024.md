@@ -7,19 +7,21 @@ Following the [Rose/Bud/Thorn](https://www.panoramaed.com/blog/rose-bud-thorn-ac
 ### Rose:
 The highlight from the previous FOSS session, such as something you found particularly interesting. This could also be something you're excited to implement now.
 
-The highlight from the last FOSS session was learning how accessible creating a website is. Before this session, I did not realize that you can create a a website without hiring a web designer or using a platform like Wix. 
+The highlight from the last FOSS session was learning about the Navigation commands that will help me not get lost in codespace!
 
 ### Bud: 
 Something that you are looking forward to digging into deeper. This could also be ideas on how to apply concepts to your current or future research projects.
 
-I'm looking forward to digging deeper into what features GitHub has. During the FOSS session, we explored new features of GitHub and along the way I realized how many different "options" there are. I'm hoping to learn more about the terminology as well so that I can gain a better understanding of what each feature does and what the implications are of selecting something (or not selecting something). As we learn more about this I'm also looking forward to being able to articulate my questions better! 
+Regarding my "Rose" point above, I'm excited to learn more about what different commands are available and how they can be best utilized. 
+
+During the FOSS session, Jeff mentioned other "free" resources on campus that may be able to serve as alternatives to paying Microsoft for additional hours using codespace. How do those other platforms interface or compare with GitHub codespaces? Is it any different that the tutorial? 
 
 ### Thorn: 
 Something that was challenging that could be worked on, such as anything that wasn't 100% clear and could be elaborated on. Any sticking points should be addressed here. Are there barriers that need to be overcome?
 
-After the last FOSS session I felt like all of my questions were addressed and I had no issues following along as we explored creating our websites. 
+Beyond launching codespace from a github page, I think I'm having a challenging time conceptualizing how github and codespace relate/interact, and by extension, what products are comparable/competing products vs. what products/software/apps compliment eachother. 
 
-One barrier I think I have still is understanding the terminology of coding and using the GitHub platform, but I recongize this will lessen the more experience I get! 
+I'm also a little confused on directories (and going "forward" and "backward") in codespace, but with some practice, I'm sure I'll get the hang of it. 
 
 ## Partner Discussions
 
