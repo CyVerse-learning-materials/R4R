@@ -1,8 +1,9 @@
 **Rose:**
-The highlight was learning the Command Line Interface (CLI) for the first time. It gave me control over file management and automation through shell scripts, which could be very useful for my LCA and techno-economic analysis work.
+One key takeaway from the previous FOSS session was learning how to use Git for better project management, especially when working with others. I found the tips on managing different versions of a project really useful, and I am excited to use these strategies in my research on lifecycle assessments and recycling optimization. 
+ git clone, git status, git pull, git add, git commit, git push. Learning all of these basic git commands was really exciting for me. Moreover, these will help me keep track of changes and collaborate more efficiently with other researchers.
 
 **Bud:**
-I am excited to apply shell scripting and CLI to automate data tasks in my LCA and GIS projects as I become more familiar with it. These skills will help me manage large datasets for my research on waste conversion and lithium-ion battery recycling.
+I am looking forward to exploring more about continuous integration (CI) since that was the first time I heard about it, especially how it can help automate testing and deploying my research models. This could really improve how I handle lifecycle assessments and techno-economic analyses. Applying these techniques to my recycling optimization work would save time and ensure that the results are more reliable.
 
 **Thorn:**
-As I was completely new to CLI, I found it challenging to keep up with the commands during the class.
+As I was completely new to the discussion about using Docker for containerizing workflows, it was a bit difficult to follow along. Since my research involves complex models and large datasets, understanding how to package everything into a container for smoother computing will be helpful for me in the future. I think with more guidance, this could help me manage the heavy computations in my recycling and environmental projects.
