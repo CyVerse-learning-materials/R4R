@@ -7,4 +7,4 @@ I learned how to more effectively manage version of my code and properly documen
 I have already been more deliberate with describing the changes that I push to GitHub. I also make commitments more frequently, so I can track how my code changes in more detail. I am looking forward to updating my website throughout my career and adding markdown pages where I can describe my research methods in greater detail.
 
 ### Thorn:
-Working with git using command line commands takes some getting used to. For now, I'll have to Google the commands to remind myself of the exact syntax.
+Working with git using the command line takes some getting used to. For now, I'll have to Google the commands to remind myself of the exact syntax.
