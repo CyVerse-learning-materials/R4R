@@ -1,0 +1,10 @@
+Rose:
+The highlight from the previous FOSS session, such as something you found particularly interesting. This could also be something you're excited to implement now.
+I found it interesting that I was able to reproduce Michele fractal image. I might consider sharing the data analysis codes for a research project I worked on to make it possible for others to replicate
+Bud:
+Something that you are looking forward to digging into deeper. This could also be ideas on how to apply concepts to your current or future research projects.
+I see this lesson as I mean to replicate a data analysis performed by somebody else and still get the exact same result. I remember I implemented a stata code created by somebody else in one of my past research.
+I simply used the code they sent to me on a do-file. Now I learned that this can also be done through github
+Thorn:
+Something that was challenging that could be worked on, such as anything that wasn't 100% clear and could be elaborated on. Any sticking points should be addressed here. Are there barriers that need to be overcome?
+The session was interesting and I did not have any difficulty to get to the final step of generating the fractal image from Michele
