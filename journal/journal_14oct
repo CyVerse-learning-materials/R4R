@@ -1,0 +1,5 @@
+ROSE: I liked how this lesson amplifies the concept of reproducibility. Before this lesson, I might have said that providing the code and the data would be enough to ensure reproducibility (which brings us to the whole discussion around computing environments). Now, I am more thoughtful about providing executable code. I also like the emphasis on scalability and reproducibility when arguing in favor of scripting (as opposed to GUI navigation).
+
+BUD: A personal note: I need more practice hours in Shell Scripting. 
+
+THORN: This has been the most challenging session in the program so far. I am now curious about Quarto's functionality of running both R and Python code: https://nrennie.rbind.io/blog/combining-r-and-python-with-reticulate-and-quarto/ Does that mean we have two different environments?
