@@ -16,7 +16,7 @@ I'm hoping that I can make a personal website as my Capstone project! I'm excite
 ### Thorn: 
 Something that was challenging that could be worked on, such as anything that wasn't 100% clear and could be elaborated on. Any sticking points should be addressed here. Are there barriers that need to be overcome?
 
-I'm curious to know what would be the best steps to take when you are trying to reproduce someone else's code and run into issues. Is there any way to "reverse engineer" it? Is there any 
+I'm curious to know what would be the best steps to take when you are trying to reproduce someone else's code and run into issues. Is there any way to "reverse engineer" it? Is there any recommendation about when to try to do that vs. how to know when it isn't worth your time? Last thing on this point, my concern in making sure that someone else can reproduce my work is that, as the author/creator, it is often challenging to go back and make sure that you've explained something in enough detail that someone, without any of my experience, could reproduce my work. Are there any recommendations about what areas to pay specific attention to? Should we have a friend try and follow our directions? I'm just brainstorming here at this point, but my main point is that I'd like to know (if possible) what steps do you take to ensure you're being as thorough as possible without wasting time. 
 
 ## Partner Discussions
 
