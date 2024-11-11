@@ -1,4 +1,4 @@
-# Learner Log Entry #4
+# Learner Log Entry #3
 
 ### Rose:
 I learned how to more effectively manage version of my code and properly document my changes, so I can revert to older versions if my code breaks. I also spent a lot of time working on my website after finding a template I really like. The template is called [al-folio](https://github.com/alshedivat/al-folio) and is designed specifically for academic websites. I also was able to link it to my personal domain by updating the DNS settings. My website domain is [csoloff.com](https://csoloff.com).

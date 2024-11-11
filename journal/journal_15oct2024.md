@@ -1,4 +1,4 @@
-# Learner Log Entry #5
+# Learner Log Entry #4
 
 ### Rose:
 I have already added the dependencies for my latest research project to the [Github repository](https://github.com/csoloff/ACTIVATE_CCN_closure) so my results can be easily reproduced.
