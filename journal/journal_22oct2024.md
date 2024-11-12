@@ -1,4 +1,4 @@
-# Learner Log Entry #6
+# Learner Log Entry #5
 
 ### Rose:
 I found it helpful that you can just preload a package with all the dependencies and share it with your code. I think this would be helpful if I am trying to share my code within my group quickly and not have to worry about making sure they install the python environment and packages correctly.
