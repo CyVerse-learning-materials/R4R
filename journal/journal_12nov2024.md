@@ -1,0 +1,1 @@
+I found the discussion the HPC enlightening. I played around with it last semester and found the learning curve to be extremely steep. I really had no idea what I was doing or which system to use. After several days finally got the slurm script to work. The FOSS session definitely helped make things more concrete and helped me understand what was going on under the hood. 
