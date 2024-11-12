@@ -1,0 +1,27 @@
+# Learner Log Entry #1 
+
+## Prompts
+Following the [Rose/Bud/Thorn](https://www.panoramaed.com/blog/rose-bud-thorn-activity-and-worksheet#:~:text=%22Rose%2C%20Bud%2C%20Thorn%22%20is%20a%20mindful%20design%2D,day%2C%20week%2C%20or%20month.) model:
+
+### Rose:
+The highlight from the previous FOSS session, such as something you found particularly interesting. This could also be something you're excited to implement now.
+
+It was very cool to learn about how accessible this resource is because I think it can mitigate the cost barrier associated with processing large data sets. 
+
+### Bud: 
+Something that you are looking forward to digging into deeper. This could also be ideas on how to apply concepts to your current or future research projects.
+
+I'm looking forward to exploring how to use the command line to interact with the HPC. As Michele pointed out, it seems a little counter-intuitive to be sharing this resource with others but still be able to keep your files private so I'm curious to learn more about how to navigate around using the command line. To that point, I think the open on demand site is a very cool resource because it visually communicates what you're doing on the HPC in a different (and more intuitive to me) way.  
+
+### Thorn: 
+Something that was challenging that could be worked on, such as anything that wasn't 100% clear and could be elaborated on. Any sticking points should be addressed here. Are there barriers that need to be overcome?
+
+I think in general, but especially with using the HPC, using the command line and following along with the correct commands is something that I need to learn more about. 
+
+## Partner Discussions
+
+During the in-person Tuesday session, you will be paired with another fellow to get to know them and also discuss a FOSS topic. Please introduce yourself to your partner and briefly talk about your field of study and projects. 
+
+For our first session, please discuss with your partner your thoughts on FOSS Intro to Open Science. Please use the Rose, Bud, Thorn prompts to spark discussion. 
+
+Please give a brief summary of what you talked about. Did you learn anything from your partner regarding their research or a FOSS topic? Did you help your partner learn something they did not know? 
